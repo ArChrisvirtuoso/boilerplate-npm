@@ -17,5 +17,5 @@
 	"description": "Managing Pacakages with NPM. Part of the Free Code Camp Curriculum.",
 	"keywords": ["Manga", "comic",  "manhua", "manwha", "freeCodeCamp"],
 	"license": "MIT",
-	"version": "0.0.1"
+	"version": "1.0.0"
 }
