@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "Version",
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,5 +14,8 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Christopher Armstrong",
-	"description": "Managing Pacakages with NPM. Part of the Free Code Camp Curriculum."
+	"description": "Managing Pacakages with NPM. Part of the Free Code Camp Curriculum.",
+	"keywords": ["Manga", "comic",  "manhua", "manwha", "freeCodeCamp"],
+	"license": "MIT",
+	"version": "0.0.1"
 }
